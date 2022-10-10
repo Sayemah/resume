@@ -1,0 +1,44 @@
+h1 {
+    font-size: 42px;
+    font-weight: 400;
+    color: #ed143de0;
+}
+
+p {
+    font-weight: 500;
+    color: #000000b0;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: 700;
+    color: #2b3be287;
+}
+
+.p1 {
+    font-style: italic;
+    color: #000000b0;
+}
+
+.p2 {
+    font-style: italic;
+    color: #000000b0;
+}
+
+li {
+    color: #000000b0;
+}
+
+th {
+    font-weight: 540;
+}
+
+td {
+    font-weight: 400;
+    color: #000000b0;
+}
+
+h3 {
+    font-weight: 540;
+}
